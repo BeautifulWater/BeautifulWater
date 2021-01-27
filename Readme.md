@@ -1,25 +1,9 @@
 # Readme
 
-​      My name is BeautifulWater, a first-year undergraduate learning computer science.
+​      My name is BeautifulWater, a first-year undergraduate learning computer science in Fzu.
 
-​      The following introduction is used in Chinese.
+​      As to what I have acquired,I have just learned kind of xmind,c,cpp,python and basic algorithm such as basic bfs,basic dfs,binary search and so on.
+       
+​      Furthermore,I fancy running which plays an essential role in releasing my anxiety for the future.
 
-> > + 大一计算机新生
-> >
-> > + ==大佬oyf,wyq==的小迷弟
-> >
-> > + ==卷神zly==的跟随者
-> >
-> > + …………………………
-
-*******
-
-> > > > ## 掌握的技能
-
-> >1. xmind
-> >2. 低级算法一点点
-> >3. python重学中，曾在挣扎中写出过低级爬虫
-> >4. markdown基础
-> >5. 杂七杂八各种一点点  
-
-~~亿~~  
+​      That's all.Tomorrow is another good day.
